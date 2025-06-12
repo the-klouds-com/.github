@@ -1,0 +1,8 @@
+{
+    "name": "Build Workflow Template",
+    "description": "Build workflow template.",
+    "iconName": "example-icon",
+    "categories": [
+        "continuous-integration"
+    ]
+}
