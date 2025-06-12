@@ -2,6 +2,6 @@
     "name": "Build Workflow Template",
     "description": "Build workflow template.",
     "categories": [
-        "continuous-integration"
+        "Continuous integration"
     ]
 }
